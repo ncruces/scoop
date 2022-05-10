@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/ncruces/zenity/releases/download/v0.8.6/zenity_win64.zip",
-      "hash": "2f760b85b4740525712316e39574a1fd352990abe06227f8bfb6695106f8db61"
+      "hash": "3a8fd6331bf571cdf090c27ec4276569c31b93fef3a79069fabf07de7d6d95fd"
     },
     "32bit": {
       "url": "https://github.com/ncruces/zenity/releases/download/v0.8.6/zenity_win32.zip",
-      "hash": "d59cae14788e1d174246bf1bffa3657929848fc906078051e5d819f41c335ff4"
+      "hash": "130b63271d71b1d51b9e1f835591c1d9a05ff1239d08c50f81936b12e938ce23"
     }
   },
   "bin": [ "zenity", "zenity.exe" ]
