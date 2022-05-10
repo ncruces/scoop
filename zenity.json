@@ -1,28 +1,16 @@
 {
-  "version": "0.8.5",
+  "version": "0.8.6",
   "description": "Dialog boxes for the command-line",
   "homepage": "https://pkg.go.dev/github.com/ncruces/zenity",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": [
-        "https://github.com/ncruces/zenity/releases/download/v0.8.5/zenity_win64.zip",
-        "https://raw.github.com/wiki/ncruces/zenity/cygshim#/zenity"
-      ],
-      "hash": [
-        "2600385f19e637adb11983ec4af5417cb2f63188909c7738af3f53ad404172b5",
-        "0815b39ad8c5b5583b473f2f87ee547d3b90eea92e36d76a20176f25fcbd2acb"
-      ]
+      "url": "https://github.com/ncruces/zenity/releases/download/v0.8.6/zenity_win64.zip",
+      "hash": "2f760b85b4740525712316e39574a1fd352990abe06227f8bfb6695106f8db61"
     },
     "32bit": {
-      "url": [
-        "https://github.com/ncruces/zenity/releases/download/v0.8.5/zenity_win32.zip",
-        "https://raw.github.com/wiki/ncruces/zenity/cygshim#/zenity"
-      ],
-      "hash": [
-        "6795fc8ee488873166047de50086a589f99b9c725ae8fff873576a2456d863f9",
-        "0815b39ad8c5b5583b473f2f87ee547d3b90eea92e36d76a20176f25fcbd2acb"
-      ]
+      "url": "https://github.com/ncruces/zenity/releases/download/v0.8.6/zenity_win32.zip",
+      "hash": "d59cae14788e1d174246bf1bffa3657929848fc906078051e5d819f41c335ff4"
     }
   },
   "bin": [ "zenity", "zenity.exe" ]
