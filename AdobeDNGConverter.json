@@ -1,0 +1,18 @@
+{
+  "version": "14.4.1",
+  "description": "DNG file converter",
+  "homepage": "https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html",
+  "license": "Freeware",
+  "architecture": {
+    "64bit": {
+      "url": "https://www.adobe.com/go/dng_converter_win#/setup.exe",
+      "hash": "fe04976a27676c4437b2223f3e3df29612b26f631fecac85f559c1f9d57c0299"
+    }
+  },
+  "installer": {
+    "args": "/SILENT"
+  },
+  "checkver": {
+    "url": "https://helpx.adobe.com/photoshop/kb/uptodate.html"
+  }
+}
