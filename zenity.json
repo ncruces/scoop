@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ncruces/zenity/releases/download/v0.8.10/zenity_win64.zip",
+      "url": "https://github.com/ncruces/zenity/releases/download/v0.9.0/zenity_win64.zip",
       "hash": "259accfa70d66c1c99ed43ec5a54854255fc6acedb8d9a9e357688038a13fdec"
     },
     "32bit": {
-      "url": "https://github.com/ncruces/zenity/releases/download/v0.8.10/zenity_win32.zip",
+      "url": "https://github.com/ncruces/zenity/releases/download/v0.9.0/zenity_win32.zip",
       "hash": "f5072871646a74c052ac12e6db65b999b2bfff6347c3b422a7ddcef973ca6b1e"
     }
   },
