@@ -6,7 +6,7 @@
   "depends": "AdobeDNGConverter",
   "architecture": {
     "64bit": {
-      "url": "https://rethinkraw.com/releases/download/v0.10.0/RethinkRAW.exe#/dl.7z",
+      "url": "https://github.com/ncruces/RethinkRAW/releases/download/v0.10.0/RethinkRAW.exe#/dl.7z",
       "hash": "6a2082f860de79fd88590fb3bdfdd5f0fb79bd68f3002a1ae1e44ba7cfbb81e7"
     }
   },
