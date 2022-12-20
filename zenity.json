@@ -1,16 +1,16 @@
 {
-  "version": "0.10.4",
+  "version": "0.10.5",
   "description": "Dialog boxes for the command-line",
   "homepage": "https://pkg.go.dev/github.com/ncruces/zenity",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ncruces/zenity/releases/download/v0.10.4/zenity_win64.zip",
-      "hash": "3812dfa4052cfb91c7d10a21830f8c76c379fbfbbafb8e2c2c714cf8351fb773"
+      "url": "https://github.com/ncruces/zenity/releases/download/v0.10.5/zenity_win64.zip",
+      "hash": "9fd32ccd3a087eee5720f8e843ebd50c76f3beb0f6c40b15d833d3e125259243"
     },
     "32bit": {
-      "url": "https://github.com/ncruces/zenity/releases/download/v0.10.4/zenity_win32.zip",
-      "hash": "8cada819ffe3c62cebde2b99696428fddaf30331efacbdc73837a9ca03166a4f"
+      "url": "https://github.com/ncruces/zenity/releases/download/v0.10.5/zenity_win32.zip",
+      "hash": "2c52b22233c3594c94dc48d1345dfbc4ca34e68da87f69d9bb330b6e50a0795f"
     }
   },
   "env_add_path": "."
