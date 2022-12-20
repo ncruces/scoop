@@ -1,13 +1,13 @@
 {
-  "version": "0.10.2",
+  "version": "0.10.3",
   "description": "RAW photo editor",
   "homepage": "https://rethinkraw.com/",
   "license": "MIT-0",
   "depends": "AdobeDNGConverter",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ncruces/RethinkRAW/releases/download/v0.10.2/RethinkRAW.exe#/dl.7z",
-      "hash": "af615abff19f2df912b6b4068fb4ac1e2419ea8c9499a763e82227574ad273c9"
+      "url": "https://github.com/ncruces/RethinkRAW/releases/download/v0.10.3/RethinkRAW.exe#/dl.7z",
+      "hash": "53695b3b46db482a26ede41b696e0682f052c85fb7ea98a77f35baf0469404c6"
     }
   },
   "extract_dir": "RethinkRAW",
